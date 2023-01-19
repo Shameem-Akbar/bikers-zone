@@ -1,0 +1,17 @@
+.bikerz-light-red{
+    background-color: rgb(225, 143, 143);
+}
+
+.bz-slide-width{
+    width: auto;
+}
+
+.bz-slide-icon-height{
+    height: 4rem;
+}
+
+@media screen and (max-width:767px) {
+    #hr{
+        width: auto!important;     
+    }
+}
